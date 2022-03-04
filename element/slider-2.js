@@ -4,11 +4,6 @@ function Slider2() {
     <div className="banner-two gradient">
       <div className="container">
         <div className="banner-inner">
-          <img
-            className="img1 move-2"
-            src="images/main-slider/slider2/pic3.png"
-            alt="Valor da imagem"
-          />
           <div className="row align-items-center">
             <div className="col-lg-6">
               <div className="banner-content text-white">
@@ -63,8 +58,6 @@ function Slider2() {
               </div>
             </div>
           </div>
-          <img className="img2 move-1" src="images/pattern/pattern8.png" alt />
-          <img className="img3 move-2" src="images/pattern/pattern9.png" alt />
         </div>
       </div>
       <div className="dz-media">
