@@ -11060,6 +11060,7 @@ textarea {
   transition: all 0.5s;
   overflow: hidden;
   z-index: 9; }
+  
   .icon-bx-wraper.style-3 > [class*="icon-bx-"] {
     position: relative;
     width: 70px;
@@ -11089,23 +11090,9 @@ textarea {
     right: -100%;
     bottom: -100%;
     z-index: -1; }
-    .icon-bx-wraper.style-3 .wraper-effect:before, .icon-bx-wraper.style-3 .wraper-effect:after {
-      content: "";
-      border-radius: 50%;
-      position: absolute;
-      transition: all 0.5s;
-      transform: translate(-50%, -50%);
-      top: 50%;
-      left: 50%; }
-    .icon-bx-wraper.style-3 .wraper-effect:before {
-      background-color: rgba(255, 255, 255, 0.2);
-      height: 250px;
-      width: 250px; }
-    .icon-bx-wraper.style-3 .wraper-effect:after {
-      background-color: #1D1D1D;
-      /* background-color: #f55f8d; */
-      height: 150px;
-      width: 150px; }
+
+
+
   .icon-bx-wraper.style-3:hover, .icon-bx-wraper.style-3.active {
     background-image: var(--gradient);
     background-size: 200%; }
