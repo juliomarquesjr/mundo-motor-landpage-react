@@ -8149,7 +8149,7 @@ button.bg-dark:focus {
   color: #fff !important; }
 
 .text-primary {
-  color: #f55f8d !important; }
+  color: #1D1D1D !important; }
 
 a.text-primary:hover, a.text-primary:focus {
   color: #f1175a !important; }
@@ -9653,7 +9653,9 @@ section {
   background-color: #5543d1; }
 
 .bgl-primary {
-  background-color: rgba(245, 95, 141, 0.1); }
+  /* background-color: rgba(245, 95, 141, 0.1);  */
+  background-color: rgb(223 164 43 / 10%); 
+}
 
 .bgl-secondary {
   background-color: rgba(38, 38, 38, 0.1); }
@@ -11100,7 +11102,8 @@ textarea {
       height: 250px;
       width: 250px; }
     .icon-bx-wraper.style-3 .wraper-effect:after {
-      background-color: #f55f8d;
+      background-color: #EFA939;
+      /* background-color: #f55f8d; */
       height: 150px;
       width: 150px; }
   .icon-bx-wraper.style-3:hover, .icon-bx-wraper.style-3.active {
@@ -13536,8 +13539,12 @@ ul.primary li:before {
 
 button.scroltop {
   box-shadow: -4px 4px 24px -10px #f55f8d !important;
-  background: #f55f8d;
-  border-color: #f55f8d;
+  /* background: #f55f8d; */
+  background: #1D1D1D;
+
+  /* border-color: #f55f8d; */
+  border-color: #1D1D1D;
+
   border-radius: 4px;
   border-style: solid;
   border-width: 0;
