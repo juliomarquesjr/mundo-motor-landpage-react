@@ -45,7 +45,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #f55f8d;
+  --primary: #1d1d1d;
   --secondary: #262626;
   --success: #029e76;
   --info: #00aeff;
@@ -9654,7 +9654,7 @@ section {
 
 .bgl-primary {
   /* background-color: rgba(245, 95, 141, 0.1);  */
-  background-color: rgb(223 164 43 / 10%); 
+  background-color: rgb(42 42 42 / 10%)
 }
 
 .bgl-secondary {
@@ -11102,7 +11102,7 @@ textarea {
       height: 250px;
       width: 250px; }
     .icon-bx-wraper.style-3 .wraper-effect:after {
-      background-color: #EFA939;
+      background-color: #1D1D1D;
       /* background-color: #f55f8d; */
       height: 150px;
       width: 150px; }
@@ -14534,7 +14534,7 @@ icon-bx-wraper style-4:hover .icon-cell i,
     content: "\f121";
     right: 30px;
     font-size: 70px;
-    color: #f55f8d; }
+    color: #1d1d1d; }
   @media only screen and (max-width: 767px) {
     .testimonial-4 {
       margin: 10px; } }
