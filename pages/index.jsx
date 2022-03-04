@@ -24,10 +24,10 @@ function Index2() {
         <AboutUs2 />
         <Counter2 />
         <OurServices2 />
-        <Projects2 />
+        {/* <Projects2 /> */}
         <Pricing2 />
         <Testimonial2 />
-        <Blog2 />
+        {/* <Blog2 /> */}
         <Clients2 />
       </div>
       <Footer2 />
