@@ -359,15 +359,15 @@ function MyApp({ Component, pageProps }) {
         className="bt-buy-now theme-btn"
       >
         <i className="ti-shopping-cart" />
-        <span>Buy Now</span>
+        <span>Comprar agora</span>
       </a>
       <a
-        href="https://w3itexperts.ticksy.com"
+        href="#"
         target="_blank"
         className="bt-support-now theme-btn"
       >
-        <i className="ti-headphone-alt" />
-        <span>Support</span>
+        <i className="ti-comment-alt" />
+        <span>WhatsApp</span>
       </a>
       <a href="#top">
         <button

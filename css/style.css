@@ -14646,7 +14646,7 @@ icon-bx-wraper style-4:hover .icon-cell i,
   /* FF3.6-15 */
   background: -webkit-linear-gradient(45deg, #1ebbf0 8%, #39dfaa 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(45deg, #1ebbf0 8%, #39dfaa 100%);
+  background: linear-gradient(45deg, #34af23 8%, #34af23 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1ebbf0', endColorstr='#39dfaa', GradientType=1);
   /* IE6-9 fallback on horizontal gradient */
@@ -14660,7 +14660,7 @@ icon-bx-wraper style-4:hover .icon-cell i,
   /* FF3.6-15 */
   background: -webkit-linear-gradient(top, #A3D179 0%, #88BA46 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, #A3D179 0%, #88BA46 100%);
+  background: linear-gradient(to bottom, #EFA939 0%, #EFA939 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1fdf61', endColorstr='#88BA46', GradientType=0);
   /* IE6-9 */ }

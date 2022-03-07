@@ -13,11 +13,11 @@ function Header2() {
                                 <ul>
                                     <li>
                                         <i className="la la-envelope"></i>{" "}
-                                        info@example.com
+                                        franciele@empreendernomundomotor.com.br
                                     </li>
                                     <li>
-                                        <i className="la la-phone-volume"></i> +91
-                                        987-654-3210
+                                        <i className="la la-phone-volume"></i> {" "}
+                                        +55 (55)9 9900-2668
                                     </li>
                                 </ul>
                             </div>
@@ -74,7 +74,7 @@ function Header2() {
                             <div className="extra-nav">
                                 <div className="extra-cell">
                                 <Link href="contact-us-2">
-                                        <a className="btn btn-primary rounded-xl gradient shadow">Get A Quote</a>
+                                        <a className="btn btn-primary rounded-xl gradient shadow">Fale Conosco</a>
                                     </Link>
                                 </div>
                             </div>
@@ -95,7 +95,8 @@ function Header2() {
                                 <ul className="nav navbar-nav navbar">
                                    
 									<li><Link href="/"><a>Home</a></Link></li>
-                                    <li
+
+                                    {/* <li
                                         className={`${
                                             open === "about" ? "open" : ""
                                         }`}
@@ -113,20 +114,23 @@ function Header2() {
                                             <li><Link href="/error-404"><a>Error 404</a></Link></li>
                                             <li><Link href="/sitedown"><a>Site Down</a></Link></li>
                                         </ul>
-                                    </li>
-                                    <li className={`${open === "services" ? "open" : ""}`}><a onClick={() => setOpen("services")}><span>Services</span><i className="fa fa-chevron-down"></i></a>
+                                    </li> */}
+
+                                    {/* <li className={`${open === "services" ? "open" : ""}`}><a onClick={() => setOpen("services")}><span>Services</span><i className="fa fa-chevron-down"></i></a>
 										<ul className="sub-menu">
 											<li><Link href="/services-2"><a>Services</a></Link></li>
 											<li><Link href="/services-details-2"><a>Services Details</a></Link></li>
 										</ul>
-									</li>
-									<li className={`${open === "blog" ? "open" : ""}`}><a onClick={() => setOpen("blog")}><span>Blog</span><i className="fa fa-chevron-down"></i></a>
+									</li> */}
+
+									{/* <li className={`${open === "blog" ? "open" : ""}`}><a onClick={() => setOpen("blog")}><span>Blog</span><i className="fa fa-chevron-down"></i></a>
 										<ul className="sub-menu">
 											<li><Link href="/blog-grid-2"><a>Blog Grid</a></Link></li>
 											<li><Link href="/blog-details-2"><a>Blog Details</a></Link></li>
 										</ul>
-									</li>
-									<li><Link href="/contact-us-2"><a>Fale Conosco</a></Link></li>
+									</li> */}
+
+									{/* <li><Link href="/contact-us-2"><a>Fale Conosco</a></Link></li> */}
 									
                                 </ul>
                                 <div className="dlab-social-icon">

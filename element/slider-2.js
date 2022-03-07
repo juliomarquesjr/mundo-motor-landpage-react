@@ -16,7 +16,7 @@ function Slider2() {
                     animationName: "fadeInUp",
                   }}
                 >
-                  Você no mundo motor
+                  Empreender no Mundo Motor
                 </h6>
                 <h1
                   className="wow fadeInUp m-b20"
