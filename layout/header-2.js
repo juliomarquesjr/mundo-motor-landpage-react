@@ -52,7 +52,7 @@ function Header2() {
                         <div className="container clearfix">
                             {/* <!-- Website Logo --> */}
                             <div className="logo-header mostion logo-dark">
-                                <Link href="/">
+                                <Link href="#">
                                     <a>
                                         <img className="custom-logo-white" src="images/logobranco.png" alt="Logo Braca Empreender no Mundo Motor" />
                                         <img className="custom-logo" src="images/logocores.png" alt="Logo em Cores Empreender no Mundo Motor" />
