@@ -54,8 +54,8 @@ function Header2() {
                             <div className="logo-header mostion logo-dark">
                                 <Link href="/">
                                     <a>
-                                        <img className="custom-logo-white" src="images/logo-white.png" alt="" />
-                                        <img className="custom-logo" src="images/logo-2.png" alt="" />
+                                        <img className="custom-logo-white" src="images/logobranco.png" alt="Logo Braca Empreender no Mundo Motor" />
+                                        <img className="custom-logo" src="images/logocores.png" alt="Logo em Cores Empreender no Mundo Motor" />
                                     </a>
                                 </Link>
                             </div>
