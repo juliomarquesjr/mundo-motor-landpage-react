@@ -14,11 +14,15 @@ import Header2 from "./../layout/header-2";
 // import "../css/skin/skin-1.css";
 
 function Index2() {
- 
   return (
     <>
+      <head>
+        <link rel="stylesheet" type="image/x-icon" href="imagens/favicon.png" />
+        <title>Empreender no Mundo Motor</title>
+      </head>
+
       <Header2 />
-      <div className="page-content bg-white">
+      <div rel="icon" className="page-content bg-white">
         <Slider2 />
         <Service2 />
         <AboutUs2 />
