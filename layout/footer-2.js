@@ -97,7 +97,7 @@ function Footer2() {
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-7 text-left"> 
-						<span className="copyright-text">Copyright © 2021 <a href="https://dexignzone.com/" target="_blank">DexignZone</a>. All rights reserved.</span> 
+						<span className="copyright-text">Desenvolvido por <a href="https://maximweb.com.br/" target="_blank">Maxim Web</a> © 2021. Todos os direitos reservados.</span> 
 					</div>
 					<div className="col-lg-6 col-md-5 text-right"> 
 						<div className="dlab-social-icon">

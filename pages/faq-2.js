@@ -25,6 +25,7 @@ function FAQ2() {
 				</div>
 			</div>
 		</div>
+		
 		{/* <!-- Banner End --> */}
 		
 		{/* <!-- Faq --> */}
