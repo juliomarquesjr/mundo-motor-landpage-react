@@ -14,7 +14,7 @@ function AboutUs_2() {
 					</div>
 					<div className="col-lg-6 m-b30 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.4s">
 						<div className="section-head style-3">
-							<h6 className="sub-title text-primary bgl-primary m-b15">ABOUT US</h6>
+							<h6 className="sub-title text-primary bgl-primary m-b15">O QUE IRÁ APRENDER?</h6>
 							<h2 className="title m-b20">We Have Creative Team To Build Your Website Better</h2>
 							<p>Proin laoreet leo vel enim gravida, at porttitor metus ultricies. Cras eu velit enim. Vivamus blandit, dolor ut aliquet rutrum, ex elit mattis sapien, non molestie felis neque et nulla. Sed euismod turpis id nibh suscipit semper. Pellentesque dapibus risus arcu.</p>
 						</div>

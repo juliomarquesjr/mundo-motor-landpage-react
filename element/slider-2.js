@@ -27,7 +27,7 @@ function Slider2() {
                     animationName: "fadeInUp",
                   }}
                 >
-                  We Provide Website Solution For You
+                  Quer Empreender no Mundo Motor?
                 </h1>
                 <p
                   className="wow fadeInUp m-b30"
@@ -38,10 +38,23 @@ function Slider2() {
                     animationName: "fadeInUp",
                   }}
                 >
-                  Mauris in enim sollicitudin quam sollicitudin fermentum ut
-                  vitae massa. Donec venenatis accumsan nisi, sit amet maximus
-                  velit euismod sit amet. Vivamus et sem sed ipsum pretium
-                  lobortis non vitae sem.
+                  Quer aprender a ter um atendimento de alto padrão, presencial
+                  e digital? Dobrar o seu faturamento, treinar a sua equipe e
+                  aumentar a audiência da sua empresa na internet? <br />
+                  Então, participe GRATUITAMENTE da Masterclass atendimento
+                  Racing para empresas.
+                </p>
+                <p
+                  className="wow fadeInUp m-b30"
+                  data-wow-delay="1.5s"
+                  style={{
+                    visibility: "visible",
+                    animationDelay: "1.5s",
+                    animationName: "fadeInUp",
+                  }}
+                >
+                  Uma série de 6 aulas que vão acontecer no Youtube, sempre às
+                  20:30h (no horário de Brasília).
                 </p>
                 <a
                   href="/about-us-2"
@@ -53,7 +66,7 @@ function Slider2() {
                     animationName: "fadeInUp",
                   }}
                 >
-                  Learn More
+                  Inscreva-se Gratuitamente
                 </a>
               </div>
             </div>
@@ -61,7 +74,10 @@ function Slider2() {
         </div>
       </div>
       <div className="dz-media">
-        <img src="images/main-slider/slider2/pic1_2.jpg" alt="Imagem Franciele" />
+        <img
+          src="images/main-slider/slider2/pic1_2.jpg"
+          alt="Imagem Franciele"
+        />
       </div>
     </div>
   );
