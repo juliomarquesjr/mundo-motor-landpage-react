@@ -16,7 +16,7 @@ function Footer2() {
             <div className="row align-items-center">
               <div className="col-lg-7">
                 <h2 className="title">
-                  Subscribe To Our Newsletter For Latest Update
+                  Inscreva-se para receber novidades
                 </h2>
               </div>
               <div className="col-lg-5">
@@ -33,7 +33,7 @@ function Footer2() {
                         required="required"
                         type="email"
                         className="form-control"
-                        placeholder="Your Email Address"
+                        placeholder="Digite o seu email"
                       />
                       <div className="input-group-addon">
                         <button

@@ -9,10 +9,10 @@ function PricingTable2() {
 			<div className="pricingtable-row">
 				<div className="row justify-content-center">
 					<div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-					<div className={`${open === "p1" ? "pricingtable-wrapper style-2 m-b30 active" : "pricingtable-wrapper style-2 m-b30"}`} onMouseOver={() => setOpen("p1")}>
+					<div className={`${open === "p1" ? "pricingtable-wrapper style-2 m-b30 m-b30" : "pricingtable-wrapper style-2 m-b30"}`} onMouseOver={() => setOpen("p1")}>
 							<div className="pricingtable-inner">
 								<div className="pricingtable-title">
-									<h3>Basic Plan</h3>
+									<h3>Plano Hastighet</h3>
 								</div>
 								<div className="icon-bx-sm radius bgl-primary">
 									<div className="icon-cell">
@@ -23,9 +23,9 @@ function PricingTable2() {
 									<h2 className="pricingtable-bx">$49<small className="pricingtable-type">/Month</small></h2>
 								</div>
 								<ul className="pricingtable-features">
-									<li>Graphic Design </li>
-									<li>Web Design</li>
-									<li>UI/UX</li>
+									<li>Suporte e tiraduvidas </li>
+									<li>Mentoria</li>
+									<li>Material semanal</li>
 									<li>HTML/CSS</li>
 									<li>SEO Marketing</li>
 									<li>Business Analysis</li>
@@ -36,7 +36,7 @@ function PricingTable2() {
 							</div>
 						</div>
 					</div>
-					<div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
+					{/* <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
 					<div className={`${open === "p2" ? "pricingtable-wrapper style-2 m-b30 active" : "pricingtable-wrapper style-2 m-b30"}`} onMouseOver={() => setOpen("p2")}>
 							<div className="pricingtable-inner">
 								<div className="pricingtable-title">
@@ -63,8 +63,10 @@ function PricingTable2() {
 								</div>
 							</div>
 						</div>
-					</div>
-					<div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
+					</div> */}
+
+					
+					{/* <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
 					<div className={`${open === "p3" ? "pricingtable-wrapper style-2 m-b30 active" : "pricingtable-wrapper style-2 m-b30"}`} onMouseOver={() => setOpen("p3")}>
 							<div className="pricingtable-inner">
 								<div className="pricingtable-title">
@@ -91,7 +93,7 @@ function PricingTable2() {
 								</div>
 							</div>
 						</div>
-					</div>
+					</div> */}
 				</div>
 			</div>
 		</>
