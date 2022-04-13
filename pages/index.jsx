@@ -11,6 +11,7 @@ import Slider2 from "../element/slider-2";
 import Testimonial2 from "../element/testimonial-2";
 import Footer2 from "../layout/footer-2";
 import Header2 from "./../layout/header-2";
+import Instagram from "../element/instagram";
 // import "../css/skin/skin-1.css";
 
 function Index2() {
@@ -19,6 +20,8 @@ function Index2() {
       <head>
         <link rel="stylesheet" type="image/x-icon" href="imagens/favicon.png" />
         <title>Empreender no Mundo Motor</title>
+        {/* Script utilizado no componente Instagram */}
+        <script src="https://cdn2.woxo.tech/a.js#61be7431f65d200016f8348d" async data-usrc></script>
       </head>
 
       <Header2 />
@@ -30,7 +33,8 @@ function Index2() {
         {/* <OurServices2 /> */}
         {/* <Projects2 /> */}
         <Pricing2 />
-        <Testimonial2 />
+        <Instagram />
+        {/* <Testimonial2 /> */}
         {/* <Blog2 /> */}
         {/* <Clients2 /> */}
       </div>
