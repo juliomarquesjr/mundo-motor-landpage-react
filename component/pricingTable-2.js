@@ -20,18 +20,15 @@ function PricingTable2() {
 									</div>
 								</div>
 								<div className="pricingtable-price">
-									<h2 className="pricingtable-bx">$49<small className="pricingtable-type">/Month</small></h2>
+									<h2 className="pricingtable-bx"><s>R$499</s><p><small className="pricingtable-type">por apenas</small></p>R$99</h2>
 								</div>
 								<ul className="pricingtable-features">
 									<li>Suporte e tiraduvidas </li>
 									<li>Mentoria</li>
 									<li>Material semanal</li>
-									<li>HTML/CSS</li>
-									<li>SEO Marketing</li>
-									<li>Business Analysis</li>
 								</ul>
 								<div className="pricingtable-footer">
-									<a href="/pricing-table-2" className="btn btn-primary gradient shadow rounded-xl">Start Now</a>
+									<a href="https://app-vlc.hotmart.com/products/bw/manage/1969489" target="_blank" className="btn btn-primary gradient shadow rounded-xl">Adquira agora</a>
 								</div>
 							</div>
 						</div>
