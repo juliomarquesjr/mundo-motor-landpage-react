@@ -366,7 +366,7 @@ function MyApp({ Component, pageProps }) {
         target="_blank"
         className="bt-support-now theme-btn"
       >
-        <i className="ti-comment-alt" />
+        <i class="fa fa-whatsapp"></i>
         <span>WhatsApp</span>
       </a>
       <a href="#top">

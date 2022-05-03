@@ -27,6 +27,7 @@ function Index2() {
           data-usrc
         ></script>
 
+        {/* Script utilizado para o Facebook no rodapé */}
         <div id="fb-root"></div>
         <script
           async
