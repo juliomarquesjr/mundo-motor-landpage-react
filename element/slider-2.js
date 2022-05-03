@@ -16,7 +16,7 @@ function Slider2() {
                     animationName: "fadeInUp",
                   }}
                 >
-                  Empreender no Mundo Motor
+                  Bem vindo
                 </h6>
                 <h1
                   className="wow fadeInUp m-b20"
@@ -27,7 +27,7 @@ function Slider2() {
                     animationName: "fadeInUp",
                   }}
                 >
-                  Quer Empreender no Mundo Motor?
+                  Atendimento Racing para o Mundo Motor
                 </h1>
                 <p
                   className="wow fadeInUp m-b30"
