@@ -10384,9 +10384,9 @@ textarea {
   font-size: 16px; }
 
 .btn-light {
-  background-color: #fff; }
+  background-color: #EFA939; }
   .btn-light:hover {
-    background-color: #f55f8d;
+    background-color: #EFA939;
     color: #fff !important;
     border-color: transparent; }
   .btn-light.text-primary:hover {
