@@ -7,7 +7,7 @@ function Slider2() {
           <div className="row align-items-center">
             <div className="col-lg-6">
               <div className="banner-content text-white">
-                <h6
+                {/* <h6
                   className="wow fadeInUp sub-title bgl-light text-white"
                   data-wow-delay="0.5s"
                   style={{
@@ -17,7 +17,7 @@ function Slider2() {
                   }}
                 >
                   Bem vindo
-                </h6>
+                </h6> */}
                 <h1
                   className="wow fadeInUp m-b20"
                   data-wow-delay="1s"
@@ -27,7 +27,7 @@ function Slider2() {
                     animationName: "fadeInUp",
                   }}
                 >
-                  Atendimento Racing para o Mundo Motor
+                  Uma experiência Racing, que vai acelerar suas vendas
                 </h1>
                 <p
                   className="wow fadeInUp m-b30"
