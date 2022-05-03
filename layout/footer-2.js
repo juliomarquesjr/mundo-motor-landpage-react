@@ -15,9 +15,7 @@ function Footer2() {
           >
             <div className="row align-items-center">
               <div className="col-lg-7">
-                <h2 className="title">
-                  Inscreva-se para receber novidades
-                </h2>
+                <h2 className="title">Inscreva-se para receber novidades</h2>
               </div>
               <div className="col-lg-5">
                 <form
@@ -119,55 +117,30 @@ function Footer2() {
                 </div>
               </div>
               <div
-                className="col-xl-3 col-lg-3 col-sm-6 wow fadeIn"
+                className="col-xl-6 col-lg-3 col-sm-6 wow fadeIn"
                 data-wow-duration="2s"
                 data-wow-delay="0.6s"
               >
                 <div className="widget widget_services">
-                  <h5 className="footer-title">Our Services</h5>
-                  <ul>
-                    <li>
-                      <a href="javascript:void(0);">Strategy & Research</a>
-                    </li>
-                    <li>
-                      <a href="javascript:void(0);">Web Development</a>
-                    </li>
-                    <li>
-                      <a href="javascript:void(0);">Web Solution</a>
-                    </li>
-                    <li>
-                      <a href="javascript:void(0);">Digital Marketing</a>
-                    </li>
-                    <li>
-                      <a href="javascript:void(0);">App Design </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div
-                className="col-xl-3 col-lg-3 col-sm-6 wow fadeIn"
-                data-wow-duration="2s"
-                data-wow-delay="0.8s"
-              >
-                <div className="widget widget_services">
-                  <h5 className="footer-title">Other links</h5>
-                  <ul>
-                    <li>
-                      <a href="javascript:void(0);">FAQ</a>
-                    </li>
-                    <li>
-                      <a href="javascript:void(0);">Portfolio</a>
-                    </li>
-                    <li>
-                      <a href="javascript:void(0);">Privacy Policy</a>
-                    </li>
-                    <li>
-                      <a href="javascript:void(0);">Terms & Conditions</a>
-                    </li>
-                    <li>
-                      <a href="javascript:void(0);">Support </a>
-                    </li>
-                  </ul>
+                  <h5 className="footer-title">Curta meu Facebook</h5>
+                  <div
+                    class="fb-page"
+                    data-href="https://www.facebook.com/eufranme"
+                    data-tabs=""
+                    data-width=""
+                    data-height=""
+                    data-small-header="false"
+                    data-adapt-container-width="true"
+                    data-hide-cover="false"
+                    data-show-facepile="true"
+                  >
+                    <blockquote
+                      cite="https://www.facebook.com/eufranme"
+                      class="fb-xfbml-parse-ignore"
+                    >
+                      <a href="https://www.facebook.com/eufranme">Ciclano</a>
+                    </blockquote>
+                  </div>
                 </div>
               </div>
             </div>
@@ -193,6 +166,13 @@ function Footer2() {
                     <li>
                       <a
                         className="fa fa-instagram"
+                        href="https://www.instagram.com/eufranme"
+                        target="_blank"
+                      ></a>
+                    </li>
+                    <li>
+                      <a
+                        className="fa fa-facebook"
                         href="https://www.instagram.com/eufranme"
                         target="_blank"
                       ></a>

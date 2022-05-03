@@ -21,7 +21,20 @@ function Index2() {
         <link rel="stylesheet" type="image/x-icon" href="imagens/favicon.png" />
         <title>Empreender no Mundo Motor</title>
         {/* Script utilizado no componente Instagram */}
-        <script src="https://cdn2.woxo.tech/a.js#61be7431f65d200016f8348d" async data-usrc></script>
+        <script
+          src="https://cdn2.woxo.tech/a.js#61be7431f65d200016f8348d"
+          async
+          data-usrc
+        ></script>
+
+        <div id="fb-root"></div>
+        <script
+          async
+          defer
+          crossorigin="anonymous"
+          src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v13.0&appId=1534174253512889&autoLogAppEvents=1"
+          nonce="x8RfIDnD"
+        ></script>
       </head>
 
       <Header2 />
