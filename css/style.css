@@ -8386,7 +8386,7 @@ strong,
 
 ::selection {
   color: #fff;
-  background: #f55f8d; }
+  background: #EFA939; }
 
 .font-10 {
   font-size: 10px; }
@@ -13429,7 +13429,7 @@ ul.primary li:before {
     border-radius: 50px;
     font-size: 14px;
     color: #fff;
-    background-color: #fea500;
+    background-color: #EFA939;
     transition: all 0.5s;
     margin: 2px; }
     .dlab-social-icon li a:hover {
