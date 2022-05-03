@@ -354,7 +354,7 @@ function MyApp({ Component, pageProps }) {
         </div>
       </div> */}
       <a
-        href="https://1.envato.market/VLMVO"
+        href="https://app-vlc.hotmart.com/products/bw/manage/1969489"
         target="_blank"
         className="bt-buy-now theme-btn"
       >
