@@ -46,7 +46,7 @@ function Index2() {
         {/* <Counter2 /> */}
         {/* <OurServices2 /> */}
         {/* <Projects2 /> */}
-        <Pricing2 />
+        {/* <Pricing2 /> */}
         <Instagram />
         {/* <Testimonial2 /> */}
         {/* <Blog2 /> */}
