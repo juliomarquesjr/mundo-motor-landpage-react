@@ -34,7 +34,7 @@ function Index2() {
           defer
           crossorigin="anonymous"
           src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v13.0&appId=1534174253512889&autoLogAppEvents=1"
-          nonce="x8RfIDnD"
+          nonce="vQQnRmNP"
         ></script>
       </head>
 

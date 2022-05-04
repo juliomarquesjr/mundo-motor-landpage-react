@@ -138,7 +138,7 @@ function Footer2() {
                       cite="https://www.facebook.com/eufranme"
                       class="fb-xfbml-parse-ignore"
                     >
-                      <a href="https://www.facebook.com/eufranme">Ciclano</a>
+                      <a href="https://www.facebook.com/eufranme">EuFranMe</a>
                     </blockquote>
                   </div>
                 </div>
