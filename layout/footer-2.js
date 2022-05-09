@@ -69,22 +69,19 @@ function Footer2() {
                     <ul>
                       <li>
                         <i className="fa fa-phone gradient"></i>
-                        <span>
-                          +91 123-456-7890
-                          <br />
-                          +91 987-654-3210
-                        </span>
+                        <span>+55 (55)9 9900-2668</span>
                       </li>
                       <li>
                         <i className="fa fa-envelope gradient"></i>
                         <span>
-                          info@example.com <br />
-                          info@example.com
+                          franciele@
+                          <br />
+                          empreendernomundomotor.com.br
                         </span>
                       </li>
                       <li>
                         <i className="fa fa-map-marker gradient"></i>
-                        <span>Marmora Road Chi Minh City, Vietnam</span>
+                        <span>São Gabriel - RS - Brasil</span>
                       </li>
                     </ul>
                   </div>
@@ -96,22 +93,22 @@ function Footer2() {
                 data-wow-delay="0.4s"
               >
                 <div className="widget widget_services">
-                  <h5 className="footer-title">Our links</h5>
+                  <h5 className="footer-title">Outros Links</h5>
                   <ul>
                     <li>
-                      <a href="javascript:void(0);">Home</a>
+                      <a href="https://agenciaideen.com.br/" target="_blank">
+                        Agência Ideen
+                      </a>
                     </li>
                     <li>
-                      <a href="javascript:void(0);">About Us</a>
+                      <a href="https://motoesportiva.com.br" target="_blanck">
+                        Motoesportiva
+                      </a>
                     </li>
                     <li>
-                      <a href="javascript:void(0);">Services</a>
-                    </li>
-                    <li>
-                      <a href="javascript:void(0);">Team</a>
-                    </li>
-                    <li>
-                      <a href="javascript:void(0);">Blog</a>
+                      <a href="https://maximweb.com.br" target="_blank">
+                        Maxim Web
+                      </a>
                     </li>
                   </ul>
                 </div>
