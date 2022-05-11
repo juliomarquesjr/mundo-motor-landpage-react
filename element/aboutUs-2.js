@@ -4,15 +4,7 @@ function AboutUs_2() {
   return (
     <>
       {/* <!-- About us --> */}
-      <section
-        className="content-inner about-wraper-1"
-        style={{
-          backgroundImage: "url(images/background/bg15.png)",
-          backgroundSize: "contain",
-          backgroundPosition: "center right",
-          backgroundRepeat: "no-repeat",
-        }}
-      >
+      <section className="content-inner about-wraper-1">
         <div className="container">
           <div className="row align-items-center">
             <div
@@ -51,11 +43,14 @@ function AboutUs_2() {
                 <li>Aulas explicativas em video com apostilas em PDF</li>
                 <li>Atualizações de conteúdos por até 1 ano</li>
               </ul>
-              
-                <a href="https://app-vlc.hotmart.com/products/bw/manage/1969489" target="_blank" className="btn btn-primary rounded-xl gradient">
-                  Adquira hoje mesmo!
-                </a>
-              
+
+              <a
+                href="https://app-vlc.hotmart.com/products/bw/manage/1969489"
+                target="_blank"
+                className="btn btn-primary rounded-xl gradient"
+              >
+                Adquira hoje mesmo!
+              </a>
             </div>
           </div>
         </div>

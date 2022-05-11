@@ -5,7 +5,6 @@ function Footer2() {
       <footer
         className="site-footer style-2"
         id="footer"
-        style={{ backgroundImage: "url(images/background/bg4.png)" }}
       >
         <div className="container">
           <div
