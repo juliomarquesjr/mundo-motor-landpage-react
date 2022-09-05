@@ -5,7 +5,7 @@ function Testimonial2() {
   return (
     <>
       {/* <!-- Testimonials --> */}
-		<section className="content-inner-2" style={{"backgroundImage":"url(images/background/bg17.png)","backgroundSize":"contain","backgroundPosition":"center","backgroundRepeat":"no-repeat"}}>
+		<section className="content-inner-2" style={{"backgroundSize":"contain","backgroundPosition":"center","backgroundRepeat":"no-repeat"}}>
 			<div className="container">
 				<div className="section-head style-3 text-center">
 					<h6 className="sub-title text-primary bgl-primary m-b15">TESTEMUNHOS</h6>

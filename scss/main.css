@@ -13624,7 +13624,7 @@ button.scroltop {
   position: relative;
   overflow: hidden; }
   .banner-two:after {
-    background-image: url(.././public/images/background/bg7.png);
+    /* background-image: url(.././public/images/background/bg7.png); */
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: contain;

@@ -5,7 +5,6 @@ function Instagram() {
       <section
         className="content-inner-2"
         style={{
-          backgroundImage: "url(images/background/bg17.png)",
           backgroundSize: "contain",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",

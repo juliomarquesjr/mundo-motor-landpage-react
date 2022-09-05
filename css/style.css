@@ -2128,41 +2128,41 @@ fieldset:disabled a.btn {
 
 .btn-light {
   color: #212529;
-  background-color: #EFA939;
-  border-color: #EFA939; }
+  background-color: #DCA53D;
+  border-color: #DCA53D; }
   .btn-light:hover {
     color: #212529;
-    background-color: #EFA939;
-    border-color: #EFA939; }
+    background-color: #DCA53D;
+    border-color: #DCA53D; }
   .btn-light:focus, .btn-light.focus {
     box-shadow: 0 0 0 0rem rgba(217, 216, 212, 0.5); }
   .btn-light.disabled, .btn-light:disabled {
     color: #212529;
-    background-color: #EFA939;
-    border-color: #EFA939; }
+    background-color: #DCA53D;
+    border-color: #DCA53D; }
   .btn-light:not(:disabled):not(.disabled):active, .btn-light:not(:disabled):not(.disabled).active, .show > .btn-light.dropdown-toggle {
     color: #212529;
-    background-color: #EFA939;
-    border-color: #EFA939; }
+    background-color: #DCA53D;
+    border-color: #DCA53D; }
     .btn-light:not(:disabled):not(.disabled):active:focus, .btn-light:not(:disabled):not(.disabled).active:focus, .show > .btn-light.dropdown-toggle:focus {
       box-shadow: 0 0 0 0rem rgba(217, 216, 212, 0.5); }
 
 .btn-dark {
-  color: #EFA939;
+  color: #DCA53D;
   background-color: #262F5A;
   border-color: #262F5A; }
   .btn-dark:hover {
-    color: #EFA939;
+    color: #DCA53D;
     background-color: #1b213f;
     border-color: #171c36; }
   .btn-dark:focus, .btn-dark.focus {
     box-shadow: 0 0 0 0rem rgba(71, 78, 115, 0.5); }
   .btn-dark.disabled, .btn-dark:disabled {
-    color: #EFA939;
+    color: #DCA53D;
     background-color: #262F5A;
     border-color: #262F5A; }
   .btn-dark:not(:disabled):not(.disabled):active, .btn-dark:not(:disabled):not(.disabled).active, .show > .btn-dark.dropdown-toggle {
-    color: #EFA939;
+    color: #DCA53D;
     background-color: #171c36;
     border-color: #13182d; }
     .btn-dark:not(:disabled):not(.disabled):active:focus, .btn-dark:not(:disabled):not(.disabled).active:focus, .show > .btn-dark.dropdown-toggle:focus {
@@ -8386,7 +8386,7 @@ strong,
 
 ::selection {
   color: #fff;
-  background: #EFA939; }
+  background: #DCA53D; }
 
 .font-10 {
   font-size: 10px; }
@@ -10384,9 +10384,9 @@ textarea {
   font-size: 16px; }
 
 .btn-light {
-  background-color: #EFA939; }
+  background-color: #DCA53D; }
   .btn-light:hover {
-    background-color: #EFA939;
+    background-color: #DCA53D;
     color: #fff !important;
     border-color: transparent; }
   .btn-light.text-primary:hover {
@@ -13328,7 +13328,7 @@ ul.list-arrow li:before {
   font-family: fontawesome;
   font-size: 24px; }
 ul.primary li:before {
-  color: #EFA939; }
+  color: #DCA53D; }
 
 .content-inner {
   padding-top: 100px;
@@ -13429,7 +13429,7 @@ ul.primary li:before {
     border-radius: 50px;
     font-size: 14px;
     color: #fff;
-    background-color: #EFA939;
+    background-color: #DCA53D;
     transition: all 0.5s;
     margin: 2px; }
     .dlab-social-icon li a:hover {
@@ -13618,7 +13618,7 @@ button.scroltop {
   position: relative;
   overflow: hidden; }
   .banner-two:after {
-    background-image: url(.././public/images/background/bg7.png);
+    /* background-image: url(.././public/images/background/bg7.png); */
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: contain;
