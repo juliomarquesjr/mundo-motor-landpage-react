@@ -57,7 +57,7 @@ function Slider2() {
                   20:30h (no horário de Brasília).
                 </p>
                 <a
-                  href="/about-us-2"
+                  href="#"
                   className="wow fadeInUp btn btn-light text-primary shadow rounded-xl"
                   data-wow-delay="2s"
                   style={{
