@@ -16145,7 +16145,7 @@ footer {
   background-position: center;
   position: relative;
   height: auto !important;
-  background-color: #0e1b1f;
+  background-color: #252525;
   background-size: contain; }
   .site-footer.style-2:before {
     content: "";
@@ -16166,7 +16166,7 @@ footer {
   .site-footer.style-2 .container + .footer-top {
     padding-top: 70px; }
   .site-footer.style-2 .footer-bottom {
-    background-color: #1f343b;
+    background-color: #252525;
     padding: 10px 0; }
   @media only screen and (max-width: 1199px) {
     .site-footer.style-2 .footer-top .widget_services {

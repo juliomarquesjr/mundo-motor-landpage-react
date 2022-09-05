@@ -2,10 +2,7 @@ function Footer2() {
   return (
     <>
       {/* <!-- Footer --> */}
-      <footer
-        className="site-footer style-2"
-        id="footer"
-      >
+      <footer className="site-footer style-2" id="footer">
         <div className="container">
           <div
             className="dlab-subscribe style-1 wow fadeInUp"
@@ -151,9 +148,10 @@ function Footer2() {
                   Desenvolvido por{" "}
                   <a href="https://maximweb.com.br/" target="_blank">
                     Maxim Web
-                  </a> e 
+                  </a>{" "}
+                  e {" "}
                   <a href="https://agenciaideen.com.br/" target="_blank">
-                    Agência Ideen
+                  Agência Ideen
                   </a>{" "}
                   © 2021. Todos os direitos reservados.
                 </span>
