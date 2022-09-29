@@ -1,4 +1,5 @@
 # Empreender no Mundo Motor
+![Empreender no Mundo Motor](https://raw.githubusercontent.com/juliomarquesjr/mundo-motor-landpage-react/main/.imagem/print_pagina.png)
 
 Landing Page criada em parceria com a **Agencia Ideen**, e desenvolvida em React.js com Next.js.
 A pagina tem como finalidade apresentar e comercializar um curso sobre empreendedorismo.
