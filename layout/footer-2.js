@@ -95,11 +95,6 @@ function Footer2() {
                       </a>
                     </li>
                     <li>
-                      <a href="https://motoesportiva.com.br" target="_blanck">
-                        Motoesportiva
-                      </a>
-                    </li>
-                    <li>
                       <a href="https://maximweb.com.br" target="_blank">
                         Maxim Web
                       </a>

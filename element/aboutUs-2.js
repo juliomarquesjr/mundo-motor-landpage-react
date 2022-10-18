@@ -29,14 +29,15 @@ function AboutUs_2() {
                   Valor promocional de <s>R$999,00</s> por apenas R$199,90!
                 </h2>
                 <p>
-                  Bem vindo a uma experiência Racing, que vai acelerar suas
-                  vendas.
+                  Bem vindo ao Nettverkt o curso que vai acelerar suas vendas
                 </p>
               </div>
               <ul className="list-check primary m-b30">
                 <li>Suporte direto comigo para tirar suas dúvidas</li>
                 <li>5 Aulas explicativas online com 5 E-Books em PDF</li>
-                <li>Atualizações de conteúdos e bônus semanalmente no WhatsApp</li>
+                <li>
+                  Atualizações de conteúdos e bônus semanalmente no WhatsApp
+                </li>
                 <li>Certificado de conclusão do curso</li>
               </ul>
 
