@@ -27,7 +27,7 @@ function Slider2() {
                     animationName: "fadeInUp",
                   }}
                 >
-                  Uma experiência no Instagram, que vai acelerar suas vendas, posicionar sua marca no mercado e te desconectar dos seus concorrentes.
+                  Uma experiência no Instagram, que vai acelerar suas vendas.
                 </h1>
                 <p
                   className="wow fadeInUp m-b30"
@@ -39,10 +39,11 @@ function Slider2() {
                   }}
                 >
                   Quer aprender a ter um atendimento de alto padrão, presencial
-                  e digital? Dobrar o seu faturamento, treinar a sua equipe e
-                  aumentar a audiência da sua empresa na internet? <br />
-                  Então, participe GRATUITAMENTE da Masterclass atendimento
-                  Racing para empresas.
+                  e digital? <br />
+                  Aumentar o seu faturamento e a audiência da sua empresa na
+                  internet? Então, participe do curso Nettverket - Introdução as
+                  redes sociais para empreendedores e digital influencers. O que
+                  você vai aprender?
                 </p>
                 <p
                   className="wow fadeInUp m-b30"
@@ -53,8 +54,16 @@ function Slider2() {
                     animationName: "fadeInUp",
                   }}
                 >
-                  Uma série de 6 aulas que vão acontecer no Youtube, sempre às
-                  20:30h (no horário de Brasília).
+                  <ul>
+                    <li>1 - Introdução a fotografia para Instagram</li>
+                    <li>2 - O Post perfeito</li>
+                    <li>3 - Novas tecnologias das redes sociais</li>
+                    <li>4 - Atendimento ao cliente nas redes sociais</li>
+                    <li>
+                      5 - Agendamento de postagem, organização e planilha
+                      estratégica.
+                    </li>
+                  </ul>
                 </p>
                 <a
                   href="#"
