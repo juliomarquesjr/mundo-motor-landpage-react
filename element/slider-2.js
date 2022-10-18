@@ -27,7 +27,7 @@ function Slider2() {
                     animationName: "fadeInUp",
                   }}
                 >
-                  Uma experiência Racing, que vai acelerar suas vendas
+                  Uma experiência no Instagram, que vai acelerar suas vendas, posicionar sua marca no mercado e te desconectar dos seus concorrentes.
                 </h1>
                 <p
                   className="wow fadeInUp m-b30"
