@@ -362,7 +362,7 @@ function MyApp({ Component, pageProps }) {
         <span>Comprar agora</span>
       </a>
       <a
-        href="#"
+        href="https://wa.me/5555999002668?text=Ol%C3%A1%20eu%20gostaria%20de%20iniciar%20o%20curso%20Nettverket"
         target="_blank"
         className="bt-support-now theme-btn"
       >
