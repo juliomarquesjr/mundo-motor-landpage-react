@@ -26,7 +26,7 @@ function AboutUs_2() {
                   Plano Hastighet
                 </h6>
                 <h2 className="title m-b20">
-                  Valor promocional de <s>R$499,00</s> por apenas R$49,90!
+                  Valor promocional de <s>R$999,00</s> por apenas R$199,90!
                 </h2>
                 <p>
                   Bem vindo a uma experiência Racing, que vai acelerar suas
@@ -34,14 +34,10 @@ function AboutUs_2() {
                 </p>
               </div>
               <ul className="list-check primary m-b30">
-                <li>
-                  Suporte com equipe especializada para tirar suas duvidas
-                </li>
-                <li>
-                  Náo gostou? Sem problema, seu dinheiro de volta em até 7 dias
-                </li>
-                <li>Aulas explicativas em video com apostilas em PDF</li>
-                <li>Atualizações de conteúdos por até 1 ano</li>
+                <li>Suporte direto comigo para tirar suas dúvidas</li>
+                <li>5 Aulas explicativas online com 5 E-Books em PDF</li>
+                <li>Atualizações de conteúdos e bônus semanalmente no WhatsApp</li>
+                <li>Certificado de conclusão do curso</li>
               </ul>
 
               <a
