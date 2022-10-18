@@ -1,7 +1,7 @@
 function Instagram() {
   return (
     <>
-      {/* <!-- Testimonials --> */}
+      {/* <!-- Instagram --> */}
       <section
         className="content-inner-2"
         style={{

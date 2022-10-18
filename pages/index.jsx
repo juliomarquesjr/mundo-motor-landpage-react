@@ -19,7 +19,7 @@ function Index2() {
     <>
       <head>
         <link rel="stylesheet" type="image/x-icon" href="imagens/favicon.png" />
-        <title>Empreender no Mundo Motor</title>
+        <title>Nettverket</title>
         {/* Script utilizado no componente Instagram */}
         <script
           src="https://cdn2.woxo.tech/a.js#61be7431f65d200016f8348d"

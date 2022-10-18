@@ -70,9 +70,7 @@ function Footer2() {
                       <li>
                         <i className="fa fa-envelope gradient"></i>
                         <span>
-                          franciele@
-                          <br />
-                          empreendernomundomotor.com.br
+                          franciele@nettverket.com.br
                         </span>
                       </li>
                       <li>
