@@ -3,7 +3,7 @@ function Footer2() {
     <>
       {/* <!-- Footer --> */}
       <footer className="site-footer style-2" id="footer">
-        <div className="container">
+        {/* <div className="container">
           <div
             className="dlab-subscribe style-1 wow fadeInUp"
             data-wow-duration="2s"
@@ -43,7 +43,9 @@ function Footer2() {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
+
+
         <div className="footer-top">
           <div className="container">
             <div className="row">

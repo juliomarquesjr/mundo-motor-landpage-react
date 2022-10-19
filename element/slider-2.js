@@ -76,7 +76,7 @@ function Slider2() {
                     animationName: "fadeInUp",
                   }}
                 >
-                  Inscreva-se Gratuitamente
+                  Inscreva-se
                 </a>
               </div>
             </div>
@@ -86,7 +86,7 @@ function Slider2() {
       <div className="dz-media">
         <img
           src="images/main-slider/slider2/pic1_2.jpg"
-          alt="Imagem Franciele"
+          alt="Logo Computador"
         />
       </div>
     </div>
