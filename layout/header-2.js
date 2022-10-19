@@ -26,12 +26,21 @@ function Header2() {
                                     <li>
                                         <a
                                             className="fa fa-facebook"
+                                            target='_blank'
                                             href="https://en-gb.facebook.com/"
                                         ></a>
                                     </li>
                                     <li>
                                         <a
+                                            className="fa fa-youtube"
+                                            target='_blank'
+                                            href="https://www.youtube.com/channel/UCwsQOrE9AZ3HwRwEj9K2jsg"
+                                        ></a>
+                                    </li>
+                                    <li>
+                                        <a
                                             className="fa fa-instagram"
+                                            target='_blank'
                                             href="https://www.instagram.com/"
                                         ></a>
                                     </li>

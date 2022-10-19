@@ -163,6 +163,13 @@ function Footer2() {
                     </li>
                     <li>
                       <a
+                        className="fa fa-youtube"
+                        href="https://www.youtube.com/channel/UCwsQOrE9AZ3HwRwEj9K2jsg"
+                        target="_blank"
+                      ></a>
+                    </li>
+                    <li>
+                      <a
                         className="fa fa-facebook"
                         href="https://www.instagram.com/eufranme"
                         target="_blank"
