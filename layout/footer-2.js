@@ -53,15 +53,16 @@ function Footer2() {
                 data-wow-delay="0.2s"
               >
                 <div className="widget widget_about">
-                  <div className="footer-logo">
+                  {/* <div className="footer-logo">
                     <a href="#">
                       <img
                         src="images/logobranco.png"
                         alt="Logo do Rodapé Empreender no Mundo Motor"
                       />
                     </a>
-                  </div>
+                  </div> */}
                   <div className="widget widget_getintuch">
+                  <h5 className="footer-title">Fale conosco</h5>
                     <ul>
                       <li>
                         <i className="fa fa-phone gradient"></i>

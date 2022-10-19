@@ -54,21 +54,22 @@ function Slider2() {
                     animationName: "fadeInUp",
                   }}
                 >
-                  <ul>
-                    <li>1 - Introdução a fotografia para Instagram</li>
-                    <li>2 - O Post perfeito</li>
-                    <li>3 - Novas tecnologias das redes sociais</li>
-                    <li>4 - Atendimento ao cliente nas redes sociais</li>
+                  <ul className="list-check primary m-b30">
+                    <li>Introdução a fotografia para Instagram</li>
+                    <li>O Post perfeito</li>
+                    <li>Novas tecnologias das redes sociais</li>
+                    <li>Atendimento ao cliente nas redes sociais</li>
                     <li>
-                      5 - Agendamento de postagem, organização e planilha
+                      Agendamento de postagem, organização e planilha
                       estratégica.
                     </li>
                   </ul>
                 </p>
                 <a
-                  href="#"
+                  href="https://wa.me/5555999002668?text=Ol%C3%A1%20eu%20gostaria%20de%20me%20inscrever%20no%20Nettverkt%20"
                   className="wow fadeInUp btn btn-light text-primary shadow rounded-xl"
                   data-wow-delay="2s"
+                  target="_blank"
                   style={{
                     visibility: "visible",
                     animationDelay: "2s",
